@@ -36,11 +36,15 @@
 
 - 自动联想功能帮助你输入单词 `Fn + F5`
 
-- 快速删除文件 `Command + Delete`
+- 快速删除文件 `Command + Delete`  ，也可以删除一行文本
 
 - 快速查询单词 `Control + Command + D`
 
-- ​
+- 打出苹果标志 `Shift + Option + K` 
+
+- 快速调用 emoji 表情 `⌘（command）+ ⌃（control）+ 空格键`
+
+  ​
 
   ​
 
